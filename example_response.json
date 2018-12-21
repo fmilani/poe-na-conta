@@ -1,0 +1,403 @@
+{
+  "distancia": { "texto": "1,738 km", "valor": 1737829 },
+  "duracao": { "texto": "19 hours 21 mins", "valor": 69682 },
+  "endereco_inicio": "Andradina - State of São Paulo, Brazil",
+  "coordenada_inicio": "-20.8990354,-51.3797207",
+  "endereco_fim": "Andradina - State of São Paulo, Brazil",
+  "coordenada_fim": "-20.8990354,-51.3797207",
+  "pedagios": [
+    {
+      "id_api": "1657",
+      "codigo_integracao_sem_parar": "67",
+      "concessionaria": "AB COLINAS",
+      "nome": "Boituva L/O",
+      "uf": "SP",
+      "rodovia": "SP-280",
+      "km": "111.3",
+      "tarifa": 18.2
+    },
+    {
+      "id_api": "1657",
+      "codigo_integracao_sem_parar": "66",
+      "concessionaria": "AB COLINAS",
+      "nome": "Boituva L/O",
+      "uf": "SP",
+      "rodovia": "SP-280",
+      "km": "111.3",
+      "tarifa": 18.2
+    },
+    {
+      "id_api": "1695",
+      "codigo_integracao_sem_parar": "81",
+      "concessionaria": "ECOPISTAS",
+      "nome": "Itaquaquecetuba - L/O",
+      "uf": "SP",
+      "rodovia": "SP-070",
+      "km": "32.9",
+      "tarifa": 7.2
+    },
+    {
+      "id_api": "1696",
+      "codigo_integracao_sem_parar": "83",
+      "concessionaria": "ECOPISTAS",
+      "nome": "Guararema - L/O",
+      "uf": "SP",
+      "rodovia": "SP-070",
+      "km": "57.8",
+      "tarifa": 6.8
+    },
+    {
+      "id_api": "1697",
+      "codigo_integracao_sem_parar": "85",
+      "concessionaria": "ECOPISTAS",
+      "nome": "São José dos Campos - L/O",
+      "uf": "SP",
+      "rodovia": "SP-070",
+      "km": "92.5",
+      "tarifa": 6.8
+    },
+    {
+      "id_api": "1698",
+      "codigo_integracao_sem_parar": "87",
+      "concessionaria": "ECOPISTAS",
+      "nome": "Caçapava - L/O",
+      "uf": "SP",
+      "rodovia": "SP-070",
+      "km": "114",
+      "tarifa": 5.2
+    },
+    {
+      "id_api": "1761",
+      "codigo_integracao_sem_parar": "12",
+      "concessionaria": "NOVADUTRA",
+      "nome": "Moreira César",
+      "uf": "SP",
+      "rodovia": "BR-116",
+      "km": "88",
+      "tarifa": 28.8
+    },
+    {
+      "id_api": "1761",
+      "codigo_integracao_sem_parar": "13",
+      "concessionaria": "NOVADUTRA",
+      "nome": "Moreira César",
+      "uf": "SP",
+      "rodovia": "BR-116",
+      "km": "88",
+      "tarifa": 28.8
+    },
+    {
+      "id_api": "1762",
+      "codigo_integracao_sem_parar": "10",
+      "concessionaria": "NOVADUTRA",
+      "nome": "Jacareí",
+      "uf": "SP",
+      "rodovia": "BR-116",
+      "km": "165",
+      "tarifa": 12.6
+    },
+    {
+      "id_api": "1763",
+      "codigo_integracao_sem_parar": "447",
+      "concessionaria": "NOVADUTRA",
+      "nome": "Guararema N/S",
+      "uf": "SP",
+      "rodovia": "BR-116",
+      "km": "180",
+      "tarifa": 7
+    },
+    {
+      "id_api": "1764",
+      "codigo_integracao_sem_parar": "8",
+      "concessionaria": "NOVADUTRA",
+      "nome": "Arujá N/S",
+      "uf": "SP",
+      "rodovia": "BR-116",
+      "km": "204.5",
+      "tarifa": 7
+    },
+    {
+      "id_api": "1818",
+      "codigo_integracao_sem_parar": "382",
+      "concessionaria": "RODOVIAS DO TIETÊ",
+      "nome": "Botucatu",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "259.3",
+      "tarifa": 10.2
+    },
+    {
+      "id_api": "1818",
+      "codigo_integracao_sem_parar": "383",
+      "concessionaria": "RODOVIAS DO TIETÊ",
+      "nome": "Botucatu",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "259.3",
+      "tarifa": 10.2
+    },
+    {
+      "id_api": "1819",
+      "codigo_integracao_sem_parar": "319",
+      "concessionaria": "RODOVIAS DO TIETÊ",
+      "nome": "Areiópolis",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "285",
+      "tarifa": 11.4
+    },
+    {
+      "id_api": "1819",
+      "codigo_integracao_sem_parar": "154",
+      "concessionaria": "RODOVIAS DO TIETÊ",
+      "nome": "Areiópolis",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "285",
+      "tarifa": 11.4
+    },
+    {
+      "id_api": "1820",
+      "codigo_integracao_sem_parar": "378",
+      "concessionaria": "RODOVIAS DO TIETÊ",
+      "nome": "Agudos",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "314",
+      "tarifa": 11.2
+    },
+    {
+      "id_api": "1820",
+      "codigo_integracao_sem_parar": "379",
+      "concessionaria": "RODOVIAS DO TIETÊ",
+      "nome": "Agudos",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "314",
+      "tarifa": 11.2
+    },
+    {
+      "id_api": "1870",
+      "codigo_integracao_sem_parar": "27",
+      "concessionaria": "SPVIAS",
+      "nome": "Quadra L/O",
+      "uf": "SP",
+      "rodovia": "SP-280",
+      "km": "158.3",
+      "tarifa": 25
+    },
+    {
+      "id_api": "1870",
+      "codigo_integracao_sem_parar": "28",
+      "concessionaria": "SPVIAS",
+      "nome": "Quadra L/O",
+      "uf": "SP",
+      "rodovia": "SP-280",
+      "km": "158.3",
+      "tarifa": 25
+    },
+    {
+      "id_api": "1871",
+      "codigo_integracao_sem_parar": "29",
+      "concessionaria": "SPVIAS",
+      "nome": "Itatinga L/O",
+      "uf": "SP",
+      "rodovia": "SP-280",
+      "km": "208.4",
+      "tarifa": 25
+    },
+    {
+      "id_api": "1871",
+      "codigo_integracao_sem_parar": "30",
+      "concessionaria": "SPVIAS",
+      "nome": "Itatinga L/O",
+      "uf": "SP",
+      "rodovia": "SP-280",
+      "km": "208.4",
+      "tarifa": 25
+    },
+    {
+      "id_api": "1915",
+      "codigo_integracao_sem_parar": "18",
+      "concessionaria": "VIAOESTE",
+      "nome": "Osasco O",
+      "uf": "SP",
+      "rodovia": "SP-280",
+      "km": "18",
+      "tarifa": 8.2
+    },
+    {
+      "id_api": "1916",
+      "codigo_integracao_sem_parar": "19",
+      "concessionaria": "VIAOESTE",
+      "nome": "Barueri L",
+      "uf": "SP",
+      "rodovia": "SP-280",
+      "km": "20",
+      "tarifa": 8.2
+    },
+    {
+      "id_api": "1917",
+      "codigo_integracao_sem_parar": "20",
+      "concessionaria": "VIAOESTE",
+      "nome": "Itapevi O",
+      "uf": "SP",
+      "rodovia": "SP-280",
+      "km": "33",
+      "tarifa": 16.4
+    },
+    {
+      "id_api": "1918",
+      "codigo_integracao_sem_parar": "22",
+      "concessionaria": "VIAOESTE",
+      "nome": "Itu L",
+      "uf": "SP",
+      "rodovia": "SP-280",
+      "km": "74",
+      "tarifa": 22
+    },
+    {
+      "id_api": "1925",
+      "codigo_integracao_sem_parar": "427",
+      "concessionaria": "VIARONDON",
+      "nome": "Avaí",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "367.767",
+      "tarifa": 10.6
+    },
+    {
+      "id_api": "1925",
+      "codigo_integracao_sem_parar": "155",
+      "concessionaria": "VIARONDON",
+      "nome": "Avaí",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "367.767",
+      "tarifa": 10.6
+    },
+    {
+      "id_api": "1926",
+      "codigo_integracao_sem_parar": "428",
+      "concessionaria": "VIARONDON",
+      "nome": "Pirajuí",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "400.833",
+      "tarifa": 9.8
+    },
+    {
+      "id_api": "1926",
+      "codigo_integracao_sem_parar": "429",
+      "concessionaria": "VIARONDON",
+      "nome": "Pirajuí",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "400.833",
+      "tarifa": 9.8
+    },
+    {
+      "id_api": "1927",
+      "codigo_integracao_sem_parar": "454",
+      "concessionaria": "VIARONDON",
+      "nome": "Promissão",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "455.715",
+      "tarifa": 11.8
+    },
+    {
+      "id_api": "1927",
+      "codigo_integracao_sem_parar": "156",
+      "concessionaria": "VIARONDON",
+      "nome": "Promissão",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "455.715",
+      "tarifa": 11.8
+    },
+    {
+      "id_api": "1928",
+      "codigo_integracao_sem_parar": "431",
+      "concessionaria": "VIARONDON",
+      "nome": "Glicério",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "497.912",
+      "tarifa": 13.2
+    },
+    {
+      "id_api": "1928",
+      "codigo_integracao_sem_parar": "430",
+      "concessionaria": "VIARONDON",
+      "nome": "Glicério",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "497.912",
+      "tarifa": 13.2
+    },
+    {
+      "id_api": "1929",
+      "codigo_integracao_sem_parar": "445",
+      "concessionaria": "VIARONDON",
+      "nome": "Rubiácea",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "562.008",
+      "tarifa": 11.2
+    },
+    {
+      "id_api": "1929",
+      "codigo_integracao_sem_parar": "157",
+      "concessionaria": "VIARONDON",
+      "nome": "Rubiácea",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "562.008",
+      "tarifa": 11.2
+    },
+    {
+      "id_api": "1930",
+      "codigo_integracao_sem_parar": "433",
+      "concessionaria": "VIARONDON",
+      "nome": "Lavínia",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "590.482",
+      "tarifa": 9
+    },
+    {
+      "id_api": "1930",
+      "codigo_integracao_sem_parar": "432",
+      "concessionaria": "VIARONDON",
+      "nome": "Lavínia",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "590.482",
+      "tarifa": 9
+    },
+    {
+      "id_api": "1931",
+      "codigo_integracao_sem_parar": "435",
+      "concessionaria": "VIARONDON",
+      "nome": "Guaraçaí",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "621.27",
+      "tarifa": 8.6
+    },
+    {
+      "id_api": "1931",
+      "codigo_integracao_sem_parar": "434",
+      "concessionaria": "VIARONDON",
+      "nome": "Guaraçaí",
+      "uf": "SP",
+      "rodovia": "SP-300",
+      "km": "621.27",
+      "tarifa": 8.6
+    }
+  ],
+  "rota_imagem":
+    "https://maps.googleapis.com/maps/api/staticmap?&size=640x640&path=weight:3|color:0x0000FF|enc:~yp~BfbrxHczAgeAxzAmtBhmJodO`}Ycwi@|dUyv`@fj@gpEkhAm`Fhi@qyNge@ktRiB{lUhy@enG|zO_{QdrIozJxgKkuUz~LsaYhaWkkd@tbPytVvsZme[fzR_wVjeRwzO~nM}{N|a_@}rj@rxDudE|uDcx@tuTigLdcG}wGfmJwqPpqKo`Qv|D{}CpyI_pLxeG}vJ~{F{vGz~FeqCpwDstEbgGooFlaMldE~ySp~G~e@kfBrqG{wFdpGkj[tiEsuMwk@i}Avr@y_EvnDkgHpPosBdrAsnKpqAaoj@dtCwhJrlAe{P~f@gcHreBg|GjlB}vLnbEqvN`}Fyna@zt@apEhV}tKpnBoxM]sfHjdEeaIllGaoHvb@cmDgx@_iEkHucNluBomNou@q{Box@amF`{@ijH|\\owF~h@mvAgmCw_C}aFqqIwpDyfMmmFgvTacOiuk@_wAcaIu}@ilGuaFg~ImsKmkNo~KeyX_xNuyZuhDejKehTqzg@m~EstImgBcgFcsAaq@ehCqqC_bEyoFocOmnU}iJ{{P{eDfeB{iDo\\q~DvfDstC~tCczEcd@etEy\\saDc_C{rCin@s|CcSjlBQz`Exu@x|BnsBls@~}@l}AaGv|Ff_@xq@vCrkBoWpc@ciBfmDqmDtzDpUbsEmsAhmLf`TxqLbxQ`lDvaFd_IfoIzxMzb[baRp{d@`fAfkDxoBiUbyAm]vv@tbB~tEt}D`}DbxGnzEhwEzgE|yF`hDrvCxyF|sMdmEvcIvgAhqIbTbxJtmAfyEyMveFrjJbvNhwCz`JzCtlEfz@`uGviBr{CaNxaCtb@b~IbeA|dDsr@vuBtt@haHh}Fb{E_ApbGu[~_Fy`A~kNhaAprDhEhhFaxAndRrwAngLmcEb_Go}DhpJmkBd~AmVviDmpAtsJmu@jkTaqExmYszCp|SwoEfzL}g@huKk|BvuGkfBlvXiaC~cIkz@p_YedB|~ZwnClhJq_B~hDlQd}Ba{AboIa`Dj_MsmCjnO{rDxvGimBhP{yAzpCo_]y{KetAaoAywBbp@_cJt{KilFvpCgqGvhFcxPjtWgjGlzFo|Cv{F{xKhkPk}CbgHshDtpC_sI``ImqJllFm_GrkAgdDlnCweLp`PanIbjMexQvaXmhUrqRokj@jom@svj@hu{@kpM`dZ_~HtoQatIfjOiuNdqPsuGllJib@puRzlA|uVsq@f~Np_A`tIuaAzaHwbFdoHmnI|zNyhWrpe@e{MnsV}yCbbCveArT~SbtA{^hd@&markers=color:red|label:A|-20.8990354,-51.3797207&markers=color:red|label:B|-20.8990354,-51.3797207",
+  "id_transacao": "112797"
+}

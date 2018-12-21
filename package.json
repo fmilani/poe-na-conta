@@ -1,0 +1,28 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/**"
+    ],
+    "nohoist": [
+      "**/react-scripts",
+      "**/react-scripts/**"
+    ]
+  },
+  "scripts": {
+    "bootstrap": "cd packages && npx create-react-app",
+    "start": "micro-dev"
+  },
+  "devDependencies": {
+    "micro-dev": "^2.2.2"
+  },
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "firebase": "^5.7.0",
+    "microrouter": "^3.1.2"
+  }
+}
